@@ -11,6 +11,9 @@ Crie a chave API e copie-a.
 Adicione a chave API no arquivo **local.properties** do seu projeto Android da seguinte forma:
 **COIN_API_KEY="sua_chave_api_aqui"**
 
+# Configuração JDK
+![image](https://github.com/user-attachments/assets/e7ec4bf3-e20c-4c5b-84e6-b2c053450f52)
+
 ### Recursos do Repositório
 
 Neste repositório **"/extra_files"**, você encontrará os seguintes arquivos:
